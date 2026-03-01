@@ -790,6 +790,3 @@ export default function App() {
     </>
   );
 }
-
-
-出力される日本語がおかしい
